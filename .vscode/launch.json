@@ -4,7 +4,7 @@
      {
      "name": "Cortex Debug",
      "cwd": "${workspaceFolder}",
-     "executable": "./Build/F429ZI_CMSIS.elf",
+     "executable": "./Build/LABORATORY_PRACTICE.elf",
      "request": "launch",
     "type": "cortex-debug",
      "runToEntryPoint": "main",
